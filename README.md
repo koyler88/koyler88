@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Featured Projects
-🔹 [Fauxstagram](https://github.com/koyler88/fauxstagram) — Instagram-style app with authentication, image uploads, and comments  
+🔹 [Fauxstagram](https://github.com/koyler88/odin-book) — Instagram-style app with authentication, image uploads, and comments  
 🔹 [Blog Platform](https://github.com/koyler88/blog-platform) — Full-stack blog with admin & consumer frontends  
 
 ---
