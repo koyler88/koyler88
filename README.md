@@ -37,10 +37,5 @@ An e-commerce platform featuring product browsing, cart management, and a checko
 
 ---
 
-## 📊 GitHub Stats  
-![Kimball's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyler88&show_icons=true&theme=tokyonight)  
-
----
-
 ## 📫 Connect with Me  
 - Email: **88ksoyler88@gmail.com**  
