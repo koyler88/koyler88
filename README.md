@@ -23,6 +23,9 @@ An Instagram-style social app with authentication, image uploads, comments, and 
 
 ---
 
+#### 🔹 Preview  
+![Fauxstagram Screenshot](./screenshots/Fauxstagram-Home.png)
+
 ### 🌦️ Weather App  
 A weather dashboard that fetches live weather data from an external API and displays current conditions.  
 
@@ -30,10 +33,16 @@ A weather dashboard that fetches live weather data from an external API and disp
 
 ---
 
+#### 🔹 Preview  
+![Weather App Screenshot](./screenshots/Weather-Home.png)
+
 ### 🛒 Shopping Website  
 An e-commerce platform featuring product browsing, cart management, and a checkout flow.  
 
 👉 [Live Demo](https://kso-shopping-cart.netlify.app/) | [GitHub Repo](https://github.com/koyler88/shopping-cart)  
+
+#### 🔹 Preview  
+![Shopping Site Screenshot](./screenshots/Shopping-Home.png)
 
 ---
 
