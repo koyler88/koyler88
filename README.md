@@ -47,4 +47,4 @@ An e-commerce platform featuring product browsing, cart management, and a checko
 ---
 
 ## 📫 Connect with Me  
-- Email: **88ksoyler88@gmail.com**  
+- Email: **kso2day@gmail.com**  
